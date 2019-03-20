@@ -1,0 +1,20 @@
+.body{
+    position:absolute;
+    top:10px;
+    left:0%;
+    height:500px;
+    width:100%;
+}
+.container{
+    border:2px solid red;
+    width:80%;
+    height:98%;
+    margin: 0 auto;
+}
+.footer{
+    position:absolute;
+    top:600px;
+    left:2%;
+    height:80px;
+    width:96%;
+}

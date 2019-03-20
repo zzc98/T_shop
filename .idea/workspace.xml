@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="New:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68045cb2-9ffe-4a3c-9193-54095bb2c360" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3a50ffa7-1ab6-44ce-a226-89b697624f1f.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4dbab2b7-a443-47f7-814b-610fe37a2106.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/8a589757-9eef-4931-be63-d035b4fdbe04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bc33522c-8eaf-4b38-a9fe-6d5835ad79a1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/c-1_0-rt.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/c-1_0.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/c.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/fmt-1_0-rt.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/fmt-1_0.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/fmt.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/fn.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/permittedTaglibs.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/scriptfree.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/sql-1_0-rt.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/sql-1_0.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/sql.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/78310a55b319ebc4b37daea08926cffc1e171685.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/bottom.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/category/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/category/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/category/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/left.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/order/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/order/orderItem.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/product/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/top.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/font/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/font/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/font/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/font/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/font/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/font/loginform-icon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/font/loginform-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/font/loginform-icon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/font/loginform-icon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/225156mphrrjllpnzp57rw.jpg.thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/225209lpp6mp9py96d80zm.jpg.thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/279759ee3d6d55fb2638d9f46a224f4a21a4dd62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/IconTexto_WebDev_009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/QQ20180907000136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/QQ20180907000141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/QQ20180907000146.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/QQ20180907000151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/QQ20180907000156.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/QQ20180907000200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/QQ20180907000204.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/QQ20180907000218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/QQ20180907000223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/QQ20180907000227.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/QQ20180907000232.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/back1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/cart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/common.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/finalbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/gif53_029.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/i_edit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/info.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/loading_bar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/loading_icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/login.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/loginbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/logo.png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/member.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/message.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/mis_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/nankan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/order.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/password.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/product.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/register.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/review.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/sample-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/sample-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/shutter_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/t1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/t4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/top_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/top_100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/1535530659_966130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/abc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/bc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/bcc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/beijingnongshang.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/bh.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/bj.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/ccb.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/cib.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/cmb.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/cmbc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/dy.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/gf.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/guangda.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/hx.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/icbc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/nanjing.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/ningbo.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/pingan.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/post.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/sfz.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/sh.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/shpd.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/zheshang.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/zhifubao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bank_img/zx.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/cart/u137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/cart/u295.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/finalbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/footer/u784.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/footer/u786.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/footer/u788.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/footer/u802.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/footer/u812.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/footer/u838.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/footer/u840.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/footer/u842.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/footer/u844.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/icon_name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/icon_yz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/logo（暂时）_u8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u1006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u1031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u1056.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u1098.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u1098_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u1103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u1106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u1108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u1118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u1140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u1190.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u137.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u147.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u163.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u163_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u169.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u178.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u215.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u224.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u233.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u252.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u254.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u254_mouseOver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u260.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u260_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u262.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u267.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u267_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u269.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u278.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u285.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u285_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u287.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u296.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u305.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u314.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u323.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u332.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u341.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u350.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u363.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u372.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u381.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u399.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u417.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u444.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u466.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u484.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u493.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u502.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u511.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u529.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u551.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u569.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u578.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u605.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u614.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u623.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u632.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u654.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u657.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u659.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u667.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u669.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u684.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u709.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u732.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u734.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u738.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u760.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u799.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u804.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u829.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u854.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u862.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u879.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u905.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u951.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u956.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/u981.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/圆点-1_u152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/圆点-1_u152_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/小商品矩形（2）_u348.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/小商品矩形（2）_u348_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/小商品矩形（2）_u442.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/小商品矩形（2）_u442_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/index/矩形2_u4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/1_u128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/1_u128_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/logo（暂时）_u85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u137_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u142_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u147.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u171.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u173.JPEG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u175.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/u99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/items_info/矩形2_u81.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/l3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/qqlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/u1014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/u1020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/u1030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/u896.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/u982.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/u982_mouseOver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/u998.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/清除_u990.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/边框_u985.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/边框_u985_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/边框_u985_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/边框_u993.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/边框_u993_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/register/边框_u993_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/u179.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/u241.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layer/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layer/skin/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layer/skin/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layer/skin/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layer/skin/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layer/skin/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/layer/skin/layer.css" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test0@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test0@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test0@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test0: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test0@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test0: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="user: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-176195009">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="html" value="1" />
+          <entry key="java" value="2" />
+          <entry key="jsp" value="3" />
+          <entry key="sql" value="10" />
+          <entry key="user" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Database Element" value="8" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="2" />
+          <entry key="JSP" value="3" />
+          <entry key="SQL" value="1" />
+          <entry key="Scratch" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="17" />
+          <entry key="html" value="14" />
+          <entry key="java" value="75" />
+          <entry key="jsp" value="240" />
+          <entry key="sql" value="18" />
+          <entry key="txt" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="15" />
+          <entry key="JAVA" value="75" />
+          <entry key="JSP" value="239" />
+          <entry key="PLAIN_TEXT" value="38" />
+          <entry key="Scratch" value="35" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/动态生成验证码.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/Register.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="192" column="92" selection-start-line="192" selection-start-column="92" selection-end-line="192" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/New.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/taobao/web/servlet/UserServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/c3p0-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="72" lean-forward="true" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="130" column="22" lean-forward="true" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/header.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="166" column="29" lean-forward="true" selection-start-line="166" selection-start-column="29" selection-end-line="166" selection-end-column="29" />
+              <folding>
+                <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/order_info.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/temp.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="113" selection-start-line="12" selection-start-column="93" selection-end-line="12" selection-end-column="113" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Constant.java" />
+        <option value="$PROJECT_DIR$/src/Constant/Constant.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/Constant/Constant.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/dao/admin/AdminCategoryDao.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/dao/admin/AdminOrderDao.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/dao/admin/AdminProductDao.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/dao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/domain/Order.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/domain/OrderItem.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/domain/Product.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/factory/ContextFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/service/admin/AdminCategoryService.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/service/admin/AdminOrderService.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/service/admin/AdminProductService.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/utils/JedisPoolUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/utils/JsonUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/utils/PaymentUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/utils/TransactionManager.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/utils/UUIDUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/web/filter/CheckLoginFilter.java" />
+        <option value="$PROJECT_DIR$/src/com/taobao/web/servlet/UserServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/com/taobao/utils/CookieUtil.java" />
+        <option value="$PROJECT_DIR$/src/c3p0-config.xml" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8a589757-9eef-4931-be63-d035b4fdbe04/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/bc33522c-8eaf-4b38-a9fe-6d5835ad79a1/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/632b4dd7-5e82-4ec9-ad45-c7f6a47d606e/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ee0e621e-fb8b-4b2e-9927-1b2d929dd393/console.sql" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/temp.html" />
+        <option value="$PROJECT_DIR$/web/header.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="441" />
+    <option name="y" value="27" />
+    <option name="width" value="894" />
+    <option name="height" value="834" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="New" type="b2602c69:ProjectViewProjectNode" />
+              <item name="New" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="New" type="b2602c69:ProjectViewProjectNode" />
+              <item name="New" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="New" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="New" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="New" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="f5285cfc-e97a-42ab-b2bc-d90a7fa49f00" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553080552836" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.taobao.web.filter" />
+      <recent name="com.taobao.utils" />
+      <recent name="com.taobao.service" />
+      <recent name="com.taobao.service.admin" />
+      <recent name="com.taobao.factory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MySDU\WebLab\New\src" />
+      <recent name="C:\Users\dell\IdeaProjects\New\web" />
+      <recent name="C:\Users\dell\IdeaProjects\New\web\WEB-INF" />
+      <recent name="C:\Users\dell\IdeaProjects\New\web\WEB-INF\lib" />
+      <recent name="C:\Users\dell\IdeaProjects\New\src\com\taobao\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.New">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="New" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="New" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.10" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/New_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="New:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/New_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_New_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54402" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="New:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.New" />
+      <item itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68045cb2-9ffe-4a3c-9193-54095bb2c360" name="Default Changelist" comment="" />
+      <created>1553000299805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553000299805</updated>
+      <workItem from="1553000302992" duration="3546000" />
+      <workItem from="1553069397462" duration="3573000" />
+      <workItem from="1553077270736" duration="3093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10212000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22989276" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="设计器" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35095447" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32844576" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32991204" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32991204" />
+      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32991204" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32991204" />
+      <window_info anchor="bottom" id="调试" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="调色板" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="10" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/sql-1_0.tld">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/sql-1_0-rt.tld">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="131" column="10" selection-start-line="131" selection-start-column="10" selection-end-line="131" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/x.tld">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/x-1_0.tld">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/x-1_0-rt.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/addMyItem.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/addMyItem2.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/cart.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/error.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jquery-1.5.2.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Login.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/LoginFail.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/loginOutSuccess.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/LoginVerify.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/manage.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/order_list.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/product_info.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/product_list.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/RegisterFail.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/RegisterSuccess.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/taobao/utils/CookieUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/taobao/web/servlet/BaseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3a50ffa7-1ab6-44ce-a226-89b697624f1f/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://3a50ffa7-1ab6-44ce-a226-89b697624f1f/schema/test0/table/user" />
+    <entry file="das://4dbab2b7-a443-47f7-814b-610fe37a2106/schema/test0/table/user" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4dbab2b7-a443-47f7-814b-610fe37a2106/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://8a589757-9eef-4931-be63-d035b4fdbe04/schema/test0/table/user" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8a589757-9eef-4931-be63-d035b4fdbe04/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="79" selection-start-line="3" selection-start-column="79" selection-end-line="3" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://bc33522c-8eaf-4b38-a9fe-6d5835ad79a1/schema/test0/table/user" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/bc33522c-8eaf-4b38-a9fe-6d5835ad79a1/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/632b4dd7-5e82-4ec9-ad45-c7f6a47d606e/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ee0e621e-fb8b-4b2e-9927-1b2d929dd393/schema/test0/table/user.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a5062b9d-f3b5-4bbf-9201-139bb2388fc5/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://ee0e621e-fb8b-4b2e-9927-1b2d929dd393/schema/test0/table/user" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ee0e621e-fb8b-4b2e-9927-1b2d929dd393/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/动态生成验证码.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/New.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/taobao/web/servlet/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/c3p0-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="192" column="92" selection-start-line="192" selection-start-column="92" selection-end-line="192" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f5285cfc-e97a-42ab-b2bc-d90a7fa49f00/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://f5285cfc-e97a-42ab-b2bc-d90a7fa49f00/schema/test0/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="72" lean-forward="true" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/jsp-api.jar!/javax/servlet/jsp/PageContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/taobao/web/servlet/ProductServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1045">
+          <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="130" column="22" lean-forward="true" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/order_info.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/temp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="113" selection-start-line="12" selection-start-column="93" selection-end-line="12" selection-end-column="113" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="166" column="29" lean-forward="true" selection-start-line="166" selection-start-column="29" selection-end-line="166" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+              <type id="artifact" />
+              <type id="javaee-facet-resources" />
+              <type id="jpa-descriptors" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>New:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (New)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>New</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
