@@ -1,0 +1,58 @@
+html {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.dingdan {
+    height: 30px;
+    width: 323px;
+    border-radius: 3px;
+    border: 1px solid #CCCCCC;
+    position: relative;
+    left: 20px;
+    color: #333333;
+    font-size: 13px;
+    font-family: 微软雅黑
+}
+
+.shangpinxinxi {
+    width: 350px;
+    height: 120px;
+    font-family: 微软雅黑;
+    font-size: 16px;
+    color: #333333;
+    position: relative;
+    bottom: 90px;
+    left: 300px;
+}
+
+.jiageheshumu {
+    width: 70px;
+    font-family: 微软雅黑;
+    font-size: 16px;
+    color: #333333;
+    position: relative;
+    bottom: 170px;
+    left: 800px;
+}
+
+.yixiangqian {
+    width: 70px;
+    font-family: 微软雅黑;
+    font-size: 16px;
+    color: #EA4242;
+    position: relative;
+    bottom: 190px;
+    left: 1100px;
+}
+
+#qujiesuan {
+    position: relative;
+    left: 1000px;
+    width: 200px;
+    height: 50px;
+    background-color: #3498DB;
+    color: #FFFFFF;
+    font-family: 微软雅黑;
+    font-size: 16px
+}

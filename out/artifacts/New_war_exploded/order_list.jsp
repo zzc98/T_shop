@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-         pageEncoding="UTF-8"%>
+         pageEncoding="UTF-8" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%--<%@ page errorPage="error.jsp" %>--%>
 <!DOCTYPE html>
@@ -8,44 +8,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>我的订单</title>
     <link rel="icon" type="image/x-icon" href="img/IMG_20180912_161428.ico">
-    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
+    <link rel="stylesheet" href="css/order_list.css" type="text/css"/>
     <script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
     <style>
-        .footer{
+        .footer {
             position: relative;
-            top:300px;
-        }
-        body {
-            margin-top: 20px;
-            margin: 0 auto;
-        }
-        .carousel-inner .item img {
-            width: 100%;
-            height: 300px;
-        }
-        #dingdan{
-            position:relative;
-            top:15px;
-            left:2%;
-            width:96%;
-            height:500px;
-        }
-        #fenye{
-            position:relative;
-            top:10px;
-            left:2%;
-            width:380px;
-            height:50px;
-            margin: 0 auto;
+            top: 300px;
         }
     </style>
-    <script type="text/javascript">
-        function tiaozhuan() {
-            alert();
-            location.herf='${pageContext.request.contextPath}/order?method=findByOid&oid=${order.oid}';
-        }
-    </script>
 </head>
 <body>
 <!-- 引入header.jsp -->
@@ -63,10 +35,10 @@
                         <tr class="success">
                             <th colspan="5">订单编号:${order.oid }&nbsp;&nbsp;
                                 <c:if test="${order.state==0}">
-                                    <a href='${pageContext.request.contextPath }/order?method=findByOid&oid=${order.oid}'>未付款(若已付款，请耐心等待，有延迟)</a>
+                                <a href='${pageContext.request.contextPath }/order?method=findByOid&oid=${order.oid}'>未付款(若已付款，请耐心等待，有延迟)</a>
                                 </c:if>
                                 <c:if test="${order.state==1}">
-                                    <a>已付款</a>
+                                <a>已付款</a>
                                 </c:if>
                         </tr>
                         <tr class="warning">
@@ -81,7 +53,8 @@
                             <tr class="active">
                                 <input type="hidden" name="id" value="22">
                                 <td width="60" width="40%">
-                                    <img src="${pageContext.request.contextPath }/${orderItem.product.pimage}" width="70" height="60">
+                                    <img src="${pageContext.request.contextPath }/${orderItem.product.pimage}"
+                                         width="70" height="60">
                                 </td>
                                 <td width="30%"><a target="_blank">${orderItem.product.pname}</a></td>
                                 <td width="20%">￥${orderItem.product.shop_price}元</td>
@@ -96,9 +69,8 @@
         </div>
     </div>
     <!--分页符 -->
-    <div id="fenye" style="position: relative;top:150px">
+    <div id="fenye" style="position: relative;top:220px;">
         <ul class="pagination" style="text-align: center; margin-top: 2px;position: relative;top:-15px;left:50px">
-            <li></li>
             <!-- 上一页 -->
             <%--判断是否是第一页--%>
             <c:if test="${page.currentPage==1}">
@@ -111,7 +83,8 @@
             <%--不是第一页--%>
             <c:if test="${page.currentPage!=1 }">
                 <li>
-                    <a href="${pageContext.request.contextPath}/order?method=page&curPage=${page.currentPage-1}" aria-label="Previous">
+                    <a href="${pageContext.request.contextPath}/order?method=page&curPage=${page.currentPage-1}"
+                       aria-label="Previous">
                         <span aria-hidden="true">&laquo;</span>
                     </a>
                 </li>
@@ -138,7 +111,8 @@
             <%--不是最后一页--%>
             <c:if test="${page.currentPage!=page.totalPage }">
                 <li>
-                    <a href="${pageContext.request.contextPath}/order?method=page&curPage=${page.currentPage+1 }" aria-label="Next">
+                    <a href="${pageContext.request.contextPath}/order?method=page&curPage=${page.currentPage+1 }"
+                       aria-label="Next">
                         <span aria-hidden="true">&raquo;</span>
                     </a>
                 </li>
@@ -149,5 +123,11 @@
 </div>
 <!-- 引入footer.jsp -->
 <jsp:include page="footer.jsp"/>
+<script type="text/javascript">
+    function tiaozhuan() {
+        alert();
+        location.herf = '${pageContext.request.contextPath}/order?method=findByOid&oid=${order.oid}';
+    }
+</script>
 </body>
 </html>

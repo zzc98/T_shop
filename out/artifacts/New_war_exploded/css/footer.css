@@ -1,0 +1,108 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.u1 {
+    width: 307px;
+    height: 80px;
+    position: absolute;
+}
+
+.youtu {
+    float: left;
+}
+
+.youtou {
+    position: relative;
+    top: 10px;
+    left: 5px;
+    font-family: 微软雅黑;
+    color: #333333;
+    font-size: 16px;
+}
+
+.younei {
+    position: relative;
+    top: 15px;
+    left: 5px;
+    font-family: 微软雅黑;
+    color: #949494;
+    font-size: 11px;
+}
+
+#down {
+    background-color: #333333;
+    height: 138px;
+    /*width:1500px;*/
+    margin: auto;
+}
+
+.u3 {
+    height: 50px;
+    width: 80px;
+    *width: 80px;
+    _width: 80px;
+
+    color: #999999;
+    font-size: 14px;
+    text-align: center;
+    float: left;
+}
+
+#downright {
+    position: absolute;
+    top: 120px;
+    left: 60%;
+}
+
+#downleft {
+    position: absolute;
+    top: 50px;
+    left: 10%;
+    width: 40%;
+    *width: 40%;
+    _width: 40%;
+    height: 138px;
+}
+
+.dfu {
+    position: relative;;
+    top: 35%;
+    left: 5%;
+    font-size: 14px;
+    color: #999999;
+}
+
+.dfd {
+    position: relative;
+    top: 40%;
+    left: 5%;
+    width: auto;
+    font-size: 14px;
+    color: #6b6b6b;
+}
+#footer{
+    position:relative;
+    left:0;
+    height:219px;
+    width:100%;
+}
+#up{
+    position: relative;
+    left:0%;
+    background-color: #F2F2F2;
+    height:81px;
+}
+#ul_1{
+    left:100px
+}
+#ul_2{
+    left:450px
+}
+#ul_3{
+    left:800px
+}
+#ul_4{
+    left:1150px
+}
