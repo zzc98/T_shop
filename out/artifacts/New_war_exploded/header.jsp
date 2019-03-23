@@ -17,7 +17,7 @@
                     <a href="Login.jsp" class="header_a_1">登录</a>
                 </li>
                 <li>
-                    <a href="Register.jsp" class="header_a_1">注册</a>
+                    <a href="register2.jsp" class="header_a_1">注册</a>
                 </li>
                 <li>
                     <a class="header_a_1" onclick="alert('请先登录')">我的订单</a>
@@ -53,7 +53,7 @@
             <input type="text" placeholder="输入关键词" id="search" onkeyup="searchWord()">
             <div id="showdiv">
             </div>
-            <button id="b1">search</button>
+            <button id="b1">搜索</button>
         </div>
     </div>
     <%--导航部分--%>

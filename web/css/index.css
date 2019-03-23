@@ -128,15 +128,15 @@ html {
     box-shadow: 2px 4px 6px #888888;
 }
 
-.group {
+.group1 {
     text-align: center;
     height: 250px;
     padding: 10px 0;
+    transition: all 0.5s ease;
 }
 
 .group1:hover {
     background: whitesmoke;
-    border: 2px solid #d7d7d7;
     border-radius: 5px;
 }
 

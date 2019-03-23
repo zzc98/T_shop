@@ -600,17 +600,13 @@
         </div>
     </div>
 </div>
-<%@ include file="footer.jsp" %>
+<%@ include file="footer2.jsp" %>
 <style type="text/css">
-    #footer {
+    #footer2 {
         position: relative;
         top: 4100px;
     }
 
-    .dfu {
-        position: relative;
-        bottom: 150px;
-    }
 </style>
 </body>
 </html>
