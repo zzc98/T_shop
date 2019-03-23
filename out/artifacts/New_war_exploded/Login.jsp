@@ -70,7 +70,13 @@
             anchoring: 'left center',
             anchoringImg: 'left center'
         });
-        createCode()
+        createCode();
+
+        $('#re').keydown(function(event) {
+            if (event.keyCode == 13) {
+                $("#sm").click();
+            }
+        });
     });
 </script>
 </body>

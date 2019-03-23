@@ -1,36 +1,16 @@
-html { overflow-x: hidden; overflow-y: auto; }
-/*#b1wodeshangpin{*/
-/*border:1px solid #0079FE;*/
-/*font-family: 微软雅黑;*/
-/*border-radius: 60px;*/
-/*font-size: 13px;*/
-/*color:#0079FE;*/
-/*position: relative;*/
-/*top:50px;*/
-/*left:200px;*/
-/*}*/
-#b2shangjiashangpin{
-    border:1px solid #0079FE;
-    font-family: 微软雅黑;
-    border-radius: 60px;
-    font-size: 13px;
-    color:#0079FE;
+html {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#manage_div1 {
     position: relative;
-    top:50px;
-    left:220px;
+    background-color: #F2F2F2;
+    height: 800px;
+    width: 100%
 }
-#wodeshangpinguanli{
-    width:1300px;
-    height:800px;
+
+#manage_div2 {
     position: relative;
-    top:80px;
-    left:150px;
-    background-color: white;
-    border: 0 ;
-}
-#manage_div1{
-    position:relative;;background-color:#F2F2F2;height:700px;width:100%
-}
-#manage_div2{
-    position: relative;bottom:50px;left:230px
+    left: 230px;
 }

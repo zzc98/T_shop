@@ -50,11 +50,14 @@ option:hover {
     font-size: large;
 }
 
-#wodeshangpinkuang {
-    border-radius: 3px;
-    width: 1280px;
-    height: 900px
-}
+/*#wodeshangpinkuang {*/
+    /*border-radius: 3px;*/
+    /*width: 1280px;*/
+    /*height: 900px;*/
+    /*z-index: -10;*/
+    /*position: relative;*/
+    /*top:50px;*/
+/*}*/
 
 #shangchuantupiandeanniu {
     position: relative;
@@ -68,7 +71,14 @@ option:hover {
     font-family: 微软雅黑;
     font-size: 14px;
     color: #999999;
+    transition: all 0.4s ease ;
 }
+#shangchuantupiandeanniu:hover{
+    background-color: #d3d3d3;
+    border: #979da4;
+}
+
+
 
 #consignerRdSign {
     position: relative;
@@ -262,4 +272,15 @@ option:hover {
     top: 200px;
     font-size: 14px;
     color: #666666
+}
+
+#title_12{
+    position: relative;
+    left: 300px;
+    top: 80px;
+    font-size: 14px;
+    color: #666666
+}
+.star{
+    color: red;
 }

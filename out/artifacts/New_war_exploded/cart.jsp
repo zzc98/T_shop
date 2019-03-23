@@ -123,7 +123,7 @@
                     一共<span id="quan">?
                 </span>个商品，共选中<span id="xuan">0</span>个商品
                 </span>
-                <span id="span_2" onclick="clearCart()">清空购物车</span>
+                <span id="span_2" onclick="clearCart()"> &nbsp清空购物车 </span>
                 <span id="total_yuan">总计：${cart.total}元</span>
                 <a href="${pageContext.request.contextPath }/product?method=submitOrder">
                     <button id="btn_1">提交订单</button>

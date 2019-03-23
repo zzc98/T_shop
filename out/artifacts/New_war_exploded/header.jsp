@@ -50,7 +50,7 @@
         </ul>
         <%--搜索框和按钮--%>
         <div id="r">
-            <input type="text" placeholder="输入关键词" id="search" onkeyup="searchWord(this)">
+            <input type="text" placeholder="输入关键词" id="search" onkeyup="searchWord()">
             <div id="showdiv">
             </div>
             <button id="b1">search</button>

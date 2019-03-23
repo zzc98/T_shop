@@ -6,81 +6,172 @@ tr:hover {
     background: rgba(197, 204, 193, 0.75);
 }
 
-
-#kong{
-    position: absolute;top:150px;width: 100%;height:500px;background-color: #F2F2F2;
-}
-#div_1{
-    position: absolute;top:50px;left:400px;width:800px;height:250px
-}
-
-#div_2{
-    width:50%;float:left;
-}
-#div_3{
-    width:50%;position: absolute;top:0;left:400px;
-}
-#div_4{
+#kong {
+    position: absolute;
+    top: 150px;
+    width: 100%;
+    height: 500px;
     background-color: #F2F2F2;
 }
-#div_5{
-    position: relative;left:250px;width: 1000px;
+
+#div_1 {
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    width: 800px;
+    height: 250px
 }
-#div_6{
-    width:1000px;height:70px;background-color:white
+
+#div_2 {
+    width: 50%;
+    float: left;
 }
-#div_7{
-    width:300px;height:140px;float: left;position: relative;left:30px;text-align: center;margin-top: 10px
+
+#div_3 {
+    width: 50%;
+    position: absolute;
+    top: 0;
+    left: 400px;
 }
-#div_8{
+
+#div_4 {
+    background-color: #F2F2F2;
+}
+
+#div_5 {
+    position: relative;
+    left: 250px;
+    width: 1000px;
+}
+
+#div_6 {
+    width: 1000px;
+    height: 70px;
+    background-color: white
+}
+
+#div_7 {
+    width: 300px;
+    height: 140px;
+    float: left;
+    position: relative;
+    left: 30px;
+    text-align: center;
+    margin-top: 10px
+}
+
+#div_8 {
     float: left
 }
-#p_1{
-    color: #B4B4B4;font-family: Arial;font-size: 36px;position: relative;top:-30px;
-}
-#p_2{
-    color: #B4B4B4;font-family: Arial;font-size: 24px;position: relative;top:-50px;
-}
-#table_1{
-    font-size: 14px;color: #333333
+
+#p_1 {
+    color: #B4B4B4;
+    font-family: Arial;
+    font-size: 36px;
+    position: relative;
+    top: -30px;
 }
 
-#tr_1{
-    background-color: white;text-align: center;height:80px
+#p_2 {
+    color: #B4B4B4;
+    font-family: Arial;
+    font-size: 24px;
+    position: relative;
+    top: -50px;
 }
 
-.td_1{
+#table_1 {
+    font-size: 14px;
+    color: #333333
+}
+
+#tr_1 {
+    background-color: white;
+    text-align: center;
+    height: 80px
+}
+
+.td_1 {
     text-align: center
 }
-#img_1{
-    width: 120px;height:120px;position: relative;top:20px;left:20px
-}
-.tr_1{
-    background-color: white;height:80px;font-size: 16px;color:#333333
-}
-#span_1{
-    position: relative;top:8px;left: 10px
-}
-#span_2{
-    position: relative;top:30px;left:300px;background-color: #cc7363;border-radius: 10px;color:white;
+
+#img_1 {
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: 20px;
+    left: 20px
 }
 
-#xuan{
+.tr_1 {
+    background-color: white;
+    height: 80px;
+    font-size: 16px;
+    color: #333333
+}
+
+#span_1 {
+    position: relative;
+    top: 8px;
+    left: 10px
+}
+
+#span_2 {
+    position: relative;
+    top: 30px;
+    left: 300px;
+    background-color: #cc8b16;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    transition: all 0.4s ease;
+}
+
+#span_2:hover{
+    background-color: #e69d16;
+    cursor: pointer;
+}
+
+#xuan {
     color: #1c94c4
 }
-#total_yuan{
-    position: relative;top:30px;left:320px;
+
+#total_yuan {
+    position: relative;
+    top: 30px;
+    left: 320px;
 }
-#btn_1{
-    background-color: #0a6cd6;float: right;height: 50px;width:200px;
-    border-radius:5px;text-align: center;background-color:#3498DB;font-family: 微软雅黑;color: white
+
+#btn_1 {
+    background-color: #0a6cd6;
+    float: right;
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #3498DB;
+    font-family: 微软雅黑;
+    color: white
 }
-.img_2{
-    width: 120px;height:120px;position: relative;top:20px;left:20px
+
+.img_2 {
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: 20px;
+    left: 20px
 }
-.div_9{
-    width:300px;height:140px;float: left;position: relative;left:30px;text-align: center;margin-top: 10px
+
+.div_9 {
+    width: 300px;
+    height: 140px;
+    float: left;
+    position: relative;
+    left: 30px;
+    text-align: center;
+    margin-top: 10px
 }
-#quan{
+
+#quan {
     color: #1c94c4
 }

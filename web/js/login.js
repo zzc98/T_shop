@@ -18,15 +18,15 @@ function validate() {
     var name = document.getElementById("name").value;
     var pw = document.getElementById("pw").value;
     if (name.length == 0) {
-        document.getElementById("name").style.border = "2px solid red";
+        document.getElementById("name").style.border = "1px solid red";
         return;
     }
     if (pw.length == 0) {
-        document.getElementById("pw").style.border = "2px solid red";
+        document.getElementById("pw").style.border = "1px solid red";
         return;
     }
     if (inputCode.length <= 0) { //若输入的验证码长度为0
-        document.getElementById("re").style.border = "2px solid red";
+        document.getElementById("re").style.border = "1px solid red";
         return;
     }
     if (inputCode != code) { //若输入的验证码与产生的验证码不一致时
@@ -34,10 +34,9 @@ function validate() {
         createCode(); //刷新验证码
         document.getElementById("re").value = "";//清空文本框
     }
-    else
-    // //输入正确时
-    // alert("正在登陆"); //弹出
+    else {
         document.form.submit();
+    }
 }
 
 function nameout() {
