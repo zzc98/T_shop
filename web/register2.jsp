@@ -35,7 +35,7 @@
                 <input type="hidden" name="method" value="regist">
                 <h2>注册 <span class="red"><strong>二手交易平台</strong></span></h2>
                 <label for="username">用户名</label>
-                <input type="text" id="username" name="usertname" placeholder="请输入用户名...">
+                <input type="text" id="username" name="username" placeholder="请输入用户名...">
                 <label for="password">密码</label>
                 <input type="password" id="password" name="password" placeholder="请输入密码...">
                 <label for="name">姓名</label>
@@ -43,8 +43,8 @@
                 <label for="email">电子邮箱</label>
                 <input type="email" id="email" name="email" placeholder="请输入电子邮箱...">
 
-                <input type="password" name="passwordagain" style="display: none;" value="123456">
-                <input type="radio" name="male" value="male" checked style="display: none;">
+                <%--<input type="password" name="passwordagain" style="display: none;" value="123456">--%>
+                <%--<input type="radio" name="male" value="male" checked style="display: none;">--%>
                 <button type="submit">注册</button>
             </form>
         </div>
